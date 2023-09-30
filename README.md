@@ -1,5 +1,5 @@
 # hse-optimization-methods
-Repository for homeworks for the course "Optimization Methods" at HSE University, spring 2023
+Repository for homework for the course "Optimization Methods" at HSE University, spring 2023
 ### [Lab 1](https://github.com/rollinea/hse-optimization-methods/tree/main/lab1)
 The first laboratory work is devoted to optimization methods such as gradient descent and Newton's method. I implemented the methods themselves, the necessary oracles, as well as the linear search procedure for adaptive selection of the algorithm step (Armijo, Wolfe conditions). Experiments were also carried out, the description and results of which can be found in the report.
 ### [Lab 2](https://github.com/rollinea/hse-optimization-methods/tree/main/lab2)
